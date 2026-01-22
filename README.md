@@ -1,5 +1,5 @@
 # text-example
-##2nd level heading
+# 2nd level heading
 
 **This** is my 1st *test* file.
 1. Hi
